@@ -70,7 +70,7 @@ This project is developed for demo purpose and it's not supposed to be used in r
 
 ## License & copyright
 
-@amarnath Thakur\
+© Amarnath Thakur\
 Licensed under the [MIT license](LICENSE).
 
 ## Feedback
