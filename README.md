@@ -68,6 +68,11 @@ EMAIL_RECEIVING_USER = 'youremail@gmail.com'
 ## Disclaimer
 This project is developed for demo purpose and it's not supposed to be used in real application.
 
+## License & copyright
+
+@amarnath Thakur
+Licensed under the [MIT license](LICENSE).
+
 ## Feedback
 Any suggestion and feedback is welcome. You can message me on facebook
 https://github.com/thakuramar
